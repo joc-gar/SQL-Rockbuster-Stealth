@@ -11,7 +11,7 @@ The Rockbuster Stealth management team is planning to use its existing movie lic
 Rockbuster data set
 ## Tools
 + PostgreSQL Database
-+ [Dataset}(http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
++ [Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 + Tableau Public
 +[Tableau link](https://public.tableau.com/app/profile/jocelyn.garcia)
 + Excel
