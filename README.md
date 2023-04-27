@@ -13,5 +13,5 @@ Rockbuster data set
 + PostgreSQL Database
 + [Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 + Tableau Public
-+[Tableau link](https://public.tableau.com/app/profile/jocelyn.garcia)
++ [Tableau link](https://public.tableau.com/app/profile/jocelyn.garcia)
 + Excel
