@@ -12,5 +12,5 @@ Rockbuster data set
 ## Tools
 + PostgreSQL Database
 + Tableau Public
-[View the project viz's here:](https://public.tableau.com/app/profile/jocelyn.garcia)
+[Tableau link:](https://public.tableau.com/app/profile/jocelyn.garcia)
 + Excel
