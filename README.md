@@ -9,9 +9,9 @@ The Rockbuster Stealth management team is planning to use its existing movie lic
 * Do sales figures vary between geographic regions?
 ## Data Set
 Rockbuster data set
++ [Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 ## Tools
 + PostgreSQL Database
-+ [Dataset](http://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 + Tableau Public
 + [Tableau link](https://public.tableau.com/app/profile/jocelyn.garcia)
 + Excel
